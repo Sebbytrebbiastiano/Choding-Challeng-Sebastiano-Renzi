@@ -1,0 +1,61 @@
+/* Selettore{
+   proprietà: valore;
+   proprietà: valore;
+} */
+#contenuto{
+    background-image: url(immagini/background.jpg);
+    background-size: 2000px;
+    
+}
+.contenitoregrande{
+    width: 1000px; margin: auto;
+    background-color: rgba(0, 0, 0, 0.7); border-radius: 10px
+}
+.logo{
+    width: 250px; display: block;
+    margin: auto
+}
+
+header >h1{
+    color:rgb(18, 221, 18); text-align: center;
+}
+
+.contenitorefiglio{
+    display: block; margin-left: 33%
+}
+
+.contenitorenav{
+    background-color: rgb(18, 221, 18); padding: 15px;
+}
+
+
+
+h2{
+    display: inline-block; color:white
+}
+
+.arrow:after{
+    content: "\2192"; color:white;
+}
+
+.striscia1{
+    width: 350px; height: 35px;
+    background-color: rgb(225, 173, 75); border-radius: 10px;
+}
+
+.striscia2{
+    width: 630px; height: 35px;
+    background-color: rgb(18, 221, 18); border-radius: 10px;
+}
+
+.striscia3{
+    width: 200px; height: 35px;
+    background-color: rgb(252, 52, 52); border-radius: 10px;
+}
+
+div span{
+    color:white
+}
+
+
+
